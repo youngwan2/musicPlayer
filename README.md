@@ -6,6 +6,9 @@
 - 페이지 이전과 다음 버튼을 누르면 다음 화면으로 이동 가능
 - 모바일 환경에 맞춰서 터치 스타트와 터치 엔드를 이용하여 페이지 이동 가능
 
+ㅁ 도메인사이트
+https://effulgent-gumption-cbbd74.netlify.app
+
 <h2>데스크톱</h2>
 <img src="https://user-images.githubusercontent.com/107159871/212241884-9859fc10-f6b5-4845-8877-1715a59159b0.png ">
 
